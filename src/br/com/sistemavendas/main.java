@@ -21,6 +21,7 @@ public class main {
         System.out.println(prod1.getVlr_venda());*/
         System.out.println(prod1);
         System.out.println("Lucro: " + lucro);
+        System.out.println("teste");
 
 
     }
