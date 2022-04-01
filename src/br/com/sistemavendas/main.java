@@ -12,7 +12,7 @@ public class main {
         prod1.setVlr_venda(8000);
         float valor_compra = prod1.getVlr_compra();
         float valor_venda = prod1.getVlr_venda();
-        float lucro = valor_venda-valor_compra;
+        float lucro = valor_venda - valor_compra;
         System.out.println("Dados do produto:");
         /*System.out.println(prod1.getDescricao());
         System.out.println(prod1.getMarca());
@@ -20,8 +20,7 @@ public class main {
         System.out.println(prod1.getVlr_compra());
         System.out.println(prod1.getVlr_venda());*/
         System.out.println(prod1);
-        System.out.println("Lucro: "+lucro);
-
+        System.out.println("Lucro: " + lucro);
 
 
     }
